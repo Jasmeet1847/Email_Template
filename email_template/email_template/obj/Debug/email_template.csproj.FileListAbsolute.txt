@@ -1,0 +1,8 @@
+C:\Users\jasme\source\repos\email_template\email_template\bin\Debug\email_template.exe.config
+C:\Users\jasme\source\repos\email_template\email_template\bin\Debug\email_template.exe
+C:\Users\jasme\source\repos\email_template\email_template\bin\Debug\email_template.pdb
+C:\Users\jasme\source\repos\email_template\email_template\obj\Debug\email_template.csproj.AssemblyReference.cache
+C:\Users\jasme\source\repos\email_template\email_template\obj\Debug\email_template.csproj.SuggestedBindingRedirects.cache
+C:\Users\jasme\source\repos\email_template\email_template\obj\Debug\email_template.csproj.CoreCompileInputs.cache
+C:\Users\jasme\source\repos\email_template\email_template\obj\Debug\email_template.exe
+C:\Users\jasme\source\repos\email_template\email_template\obj\Debug\email_template.pdb
